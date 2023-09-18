@@ -13,5 +13,3 @@ if ($armnum2 == $total3) {
 } else {
     echo "No, Number $armnum2 it is not an armstrong number";
 }
-
- 
