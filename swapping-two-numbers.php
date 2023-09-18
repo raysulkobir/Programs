@@ -1,5 +1,7 @@
 <?php
 
+// Two numbers can be swapped or interchanged. It means first number will become second and second number will become first.
+
 // $a = 45;
 // $b = 78;
 // // Swapping Logic  
